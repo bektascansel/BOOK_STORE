@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Book Store",
+    "\\Book Store\\Controllers"
   ],
-  "SelectedNode": "\\Book Store.sln",
+  "SelectedNode": "\\Book Store\\Controllers\\BookController.cs",
   "PreviewInSolutionExplorer": false
 }

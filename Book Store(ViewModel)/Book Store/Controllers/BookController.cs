@@ -1,5 +1,6 @@
 ﻿using Book_Store;
 using Book_Store.BookOperations.CreatBooks;
+using Book_Store.BookOperations.DeleteBooks;
 using Book_Store.BookOperations.GetBooks;
 using Book_Store.BookOperations.GetByIdBooks;
 using Book_Store.BookOperations.UpdateBooks;
@@ -42,18 +43,19 @@ namespace Book_Store.Controllers
         public IActionResult GetById(int id)
         {
             GetByIdQuery getByIdQuery = new GetByIdQuery(_dbContext);
-            getByIdQuery.id = id;
+            GetByIdViewsModel result=new GetByIdViewsModel();
             try
             {
-              var result = getByIdQuery.Handle();
-              return Ok(result);
+                getByIdQuery.id = id;
+                result = getByIdQuery.Handle();
+              
             }
             catch (Exception ex)
             {
                 return BadRequest(ex.Message);
             }
-            
-            
+            return Ok(result);
+
 
         }
         /*
@@ -106,13 +108,17 @@ namespace Book_Store.Controllers
         [HttpDelete("{id}")]
         public IActionResult DeleteBook(int id) {  
             
-            var book= _dbContext.Books.SingleOrDefault(x=>x.Id==id);
-
-            if(book is null)
-                return BadRequest();
-
-            _dbContext.Books.Remove(book);
-            _dbContext.SaveChanges();
-            return Ok(); }
+            DeleteBooksCommand deleteBooksCommand=new DeleteBooksCommand(_dbContext);
+            try
+            {
+                deleteBooksCommand.id = id;
+                deleteBooksCommand.Handle();
+            }catch(Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+            return Ok();
+        
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zukk6W/ly06ob5Oorta/qA9ze8/XT0VxBBeA9RNGgxWJnbDwUhvG7lfsqXCVkp7Ni2TpEFfbx4ME5cN2wNvdBw==",
+  "dgSpecHash": "wHrvGQ6j+q63/AzX+nZU7mH/QoqQF5bvSqgzXCs5BIUNggizU8V9hx3Ef32hPiMGhuCnnRiXjYqTIXDiB4TQaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CANSEL BEKTAS\\source\\repos\\Book Store\\Book Store\\Book Store.csproj",
+  "projectFilePath": "C:\\Users\\CANSEL BEKTAS\\Documents\\GitHub\\BOOK_STORE\\Book Store(ViewModel)\\Book Store\\Book Store.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CANSEL BEKTAS\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\CANSEL BEKTAS\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
