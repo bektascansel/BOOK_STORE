@@ -1149,11 +1149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CANSEL BEKTAS\\source\\repos\\Book Store\\Book Store\\Book Store.csproj",
+      "projectUniqueName": "C:\\Users\\CANSEL BEKTAS\\Documents\\GitHub\\BOOK_STORE\\Book Store(AutoMapper)\\Book Store\\Book Store.csproj",
       "projectName": "Book Store",
-      "projectPath": "C:\\Users\\CANSEL BEKTAS\\source\\repos\\Book Store\\Book Store\\Book Store.csproj",
+      "projectPath": "C:\\Users\\CANSEL BEKTAS\\Documents\\GitHub\\BOOK_STORE\\Book Store(AutoMapper)\\Book Store\\Book Store.csproj",
       "packagesPath": "C:\\Users\\CANSEL BEKTAS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CANSEL BEKTAS\\source\\repos\\Book Store\\Book Store\\obj\\",
+      "outputPath": "C:\\Users\\CANSEL BEKTAS\\Documents\\GitHub\\BOOK_STORE\\Book Store(AutoMapper)\\Book Store\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CANSEL BEKTAS\\AppData\\Roaming\\NuGet\\NuGet.Config",

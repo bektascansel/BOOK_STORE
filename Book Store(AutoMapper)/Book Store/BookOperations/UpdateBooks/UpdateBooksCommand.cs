@@ -27,7 +27,7 @@ namespace Book_Store.BookOperations.UpdateBooks
             if (book is null)
                 throw new InvalidOperationException("The book is not exist");
 
-            book=_mapper.Map<Book>(Model);
+            book= _mapper.Map(Model, book);
             _context.SaveChanges();
 
         }
