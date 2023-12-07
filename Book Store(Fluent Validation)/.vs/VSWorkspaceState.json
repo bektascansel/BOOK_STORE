@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Book Store",
+    "\\Book Store\\BookOperations",
+    "\\Book Store\\BookOperations\\UpdateBooks"
+  ],
+  "SelectedNode": "\\Book Store\\BookOperations\\UpdateBooks\\UpdateBooksCommandValidator.cs",
+  "PreviewInSolutionExplorer": false
+}
