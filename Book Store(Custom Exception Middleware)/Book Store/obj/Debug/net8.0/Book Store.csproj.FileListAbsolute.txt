@@ -1,0 +1,116 @@
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\appsettings.json
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\Book Store.exe
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\Book Store.deps.json
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\Book Store.runtimeconfig.json
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\Book Store.dll
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\Book Store.pdb
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\Book Store.csproj.AssemblyReference.cache
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\Book Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\Book Store.AssemblyInfoInputs.cache
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\Book Store.AssemblyInfo.cs
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\Book Store.csproj.CoreCompileInputs.cache
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\Book Store.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\Book Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\staticwebassets\msbuild.Book Store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\staticwebassets\msbuild.build.Book Store.props
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Book Store.props
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Book Store.props
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\scopedcss\bundle\Book Store.styles.css
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\Book Store.csproj.CopyComplete
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\Book Store.dll
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\refint\Book Store.dll
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\Book Store.pdb
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\Book Store.genruntimeconfig.cache
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\obj\Debug\net8.0\ref\Book Store.dll
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\CANSEL BEKTAS\source\repos\Book Store\Book Store\bin\Debug\net8.0\FluentValidation.dll
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\appsettings.Development.json
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\appsettings.json
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\Book Store.exe
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\Book Store.deps.json
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\Book Store.runtimeconfig.json
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\Book Store.dll
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\Book Store.pdb
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\AutoMapper.dll
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\FluentValidation.dll
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Book Store(Fluent Validation)\Book Store\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\Book Store.csproj.AssemblyReference.cache
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\Book Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\Book Store.AssemblyInfoInputs.cache
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\Book Store.AssemblyInfo.cs
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\Book Store.csproj.CoreCompileInputs.cache
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\Book Store.MvcApplicationPartsAssemblyInfo.cs
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\Book Store.MvcApplicationPartsAssemblyInfo.cache
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\staticwebassets.build.json
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\staticwebassets.development.json
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\staticwebassets\msbuild.Book Store.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\staticwebassets\msbuild.build.Book Store.props
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Book Store.props
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Book Store.props
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\scopedcss\bundle\Book Store.styles.css
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\Book Store.csproj.CopyComplete
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\Book Store.dll
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\refint\Book Store.dll
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\Book Store.pdb
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\Book Store.genruntimeconfig.cache
+D:\Book Store(Fluent Validation)\Book Store\obj\Debug\net8.0\ref\Book Store.dll
+D:\Book Store\Book Store\bin\Debug\net8.0\appsettings.Development.json
+D:\Book Store\Book Store\bin\Debug\net8.0\appsettings.json
+D:\Book Store\Book Store\bin\Debug\net8.0\Book Store.exe
+D:\Book Store\Book Store\bin\Debug\net8.0\Book Store.deps.json
+D:\Book Store\Book Store\bin\Debug\net8.0\Book Store.runtimeconfig.json
+D:\Book Store\Book Store\bin\Debug\net8.0\Book Store.dll
+D:\Book Store\Book Store\bin\Debug\net8.0\Book Store.pdb
+D:\Book Store\Book Store\bin\Debug\net8.0\AutoMapper.dll
+D:\Book Store\Book Store\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Book Store\Book Store\bin\Debug\net8.0\FluentValidation.dll
+D:\Book Store\Book Store\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Book Store\Book Store\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Book Store\Book Store\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Book Store\Book Store\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Book Store\Book Store\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Book Store\Book Store\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Book Store\Book Store\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Book Store\Book Store\obj\Debug\net8.0\Book Store.csproj.AssemblyReference.cache
+D:\Book Store\Book Store\obj\Debug\net8.0\Book Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Book Store\Book Store\obj\Debug\net8.0\Book Store.AssemblyInfoInputs.cache
+D:\Book Store\Book Store\obj\Debug\net8.0\Book Store.AssemblyInfo.cs
+D:\Book Store\Book Store\obj\Debug\net8.0\Book Store.csproj.CoreCompileInputs.cache
+D:\Book Store\Book Store\obj\Debug\net8.0\Book Store.MvcApplicationPartsAssemblyInfo.cs
+D:\Book Store\Book Store\obj\Debug\net8.0\Book Store.MvcApplicationPartsAssemblyInfo.cache
+D:\Book Store\Book Store\obj\Debug\net8.0\staticwebassets.build.json
+D:\Book Store\Book Store\obj\Debug\net8.0\staticwebassets.development.json
+D:\Book Store\Book Store\obj\Debug\net8.0\staticwebassets\msbuild.Book Store.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Book Store\Book Store\obj\Debug\net8.0\staticwebassets\msbuild.build.Book Store.props
+D:\Book Store\Book Store\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Book Store.props
+D:\Book Store\Book Store\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Book Store.props
+D:\Book Store\Book Store\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Book Store\Book Store\obj\Debug\net8.0\scopedcss\bundle\Book Store.styles.css
+D:\Book Store\Book Store\obj\Debug\net8.0\Book Store.csproj.CopyComplete
+D:\Book Store\Book Store\obj\Debug\net8.0\Book Store.dll
+D:\Book Store\Book Store\obj\Debug\net8.0\refint\Book Store.dll
+D:\Book Store\Book Store\obj\Debug\net8.0\Book Store.pdb
+D:\Book Store\Book Store\obj\Debug\net8.0\Book Store.genruntimeconfig.cache
+D:\Book Store\Book Store\obj\Debug\net8.0\ref\Book Store.dll
+D:\Book Store\Book Store\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Book Store\Book Store\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
