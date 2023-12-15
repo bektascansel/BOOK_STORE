@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Book Store",
+    "\\Book Store\\Application",
+    "\\Book Store\\Application\\BookOperations",
+    "\\Book Store\\Application\\BookOperations\\Queries",
+    "\\Book Store\\Application\\BookOperations\\Queries\\GetBooks",
+    "\\Book Store\\AutoMapper",
+    "\\Book Store\\Controllers",
+    "\\Book Store\\DBOperations",
+    "\\Book Store\\Middlewares"
+  ],
+  "SelectedNode": "\\Book Store\\DBOperations\\DataGenerator.cs",
+  "PreviewInSolutionExplorer": false
+}
